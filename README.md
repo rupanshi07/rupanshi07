@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a second year undergraduate student taking Computer Science and Engineering majored in Artificial Intelligence at Amrita Vishwa Vidyapeetham. My motivation is curiosity and strong interest in technology to tackle problems in the world.
+I am a Third year undergraduate student taking Computer Science and Engineering majored in Artificial Intelligence at Amrita Vishwa Vidyapeetham. My motivation is curiosity and strong interest in technology to tackle problems in the world.
 
 My tech experience has been devoted to deepening knowledge in the field of programming, data structures, and the interesting world of AI and machine learning. I am a person who believes in learning through practice and ever working on projects that can push me to develop as a developer.
 
